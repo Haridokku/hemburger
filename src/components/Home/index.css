@@ -1,0 +1,22 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 80px;
+  height: 80px;
+}
+.heading {
+  color: #616e7c;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.displayDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: centers;
+}
